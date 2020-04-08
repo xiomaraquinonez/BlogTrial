@@ -62,9 +62,9 @@
 #       layout: "post"
 
 # Site
-name: "foxdemo"
-title: "foxdemo"
-description: "Jekyll template, Medium styled, for foxdemo."
+name: "BlogTrial"
+title: "BlogTrial"
+description: "Jekyll template, Medium styled, for BlogTrial."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
